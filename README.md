@@ -42,7 +42,7 @@ py ROCK_PAPER_SCISSORS__PYTHON_FILE
 
 ### How to use
 
-With versions 7.0 and lower simply follow the on screen instrutions.
+With versions 7.0 and lower simply follow the on-screen instructions.
 
 For versions 8.0 and 9.0 please see the following:
 
